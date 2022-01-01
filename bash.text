@@ -1,0 +1,32 @@
+Bash Command Line Interface (CLI) - Common Commands
+
+
+
+Note: folders = directories, and are usually called directories, not folders, in programming
+
+ls — List directory contents
+This command allows you to quickly view all files within the specified directory.
+
+touch — Creates a file
+This command is the easiest way to create a new file(s).
+
+rm - delete (remove) a file
+	This command will delete a file(s).
+
+mkdir — Create a folder 
+Used to create directory(s) 
+
+rm -r — Delete a Directory
+This deletes a directory (this deletes everything inside the folder). 
+
+cd — Change directory
+Allows you to move to and from different folders.
+cd - takes back to default directory
+cd/folderName - move into a directory inside the one you are currently in
+cd .. - go up (or back) one folder 
+
+mv — Move or rename directory
+Used to move or rename directories.
+
+exit — Exit out of Git Bash
+The exit command will close Git Bash.
