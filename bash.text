@@ -28,3 +28,8 @@ Used to move or rename directories.
 
 exit — Exit out of Git Bash
 The exit command will close Git Bash.
+
+EXAMPLE: 
+shavumanners@Shavus-MacBook-Pro fsw-110 % cd ../fsw-100
+shavumanners@Shavus-MacBook-Pro fsw-100 % cd ../fsw-110
+shavumanners@Shavus-MacBook-Pro fsw-110 %
