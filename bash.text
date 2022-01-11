@@ -37,3 +37,5 @@ shavumanners@Shavus-MacBook-Pro fsw-110 %
 https://linuxize.com/post/linux-cd-command/
 Navigate to the Previous Directory # = cd - 
 Navigate to the Home Directory # = cd ~
+
+git push --set-upstream origin master
